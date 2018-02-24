@@ -68,7 +68,7 @@ renderTimeline(myDates);
 
 ## Screens
 
-![Preview](/readme/timeline.gif)
+![Preview](/readme/timeline_animated.gif)
 
 ![Preview Full](/readme/timeline_full.png)
 
