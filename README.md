@@ -2,6 +2,12 @@
 
 A responsive material timeline simple to use and easily color customizable.
 
+## Planned Updates
+
+ - Add Color Customisation
+ - Add Animation Customisation
+ - Add JSON as data entry
+
 ## Instructions
 
 Copy the following files:
